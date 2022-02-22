@@ -1,5 +1,7 @@
 # AISHELL-NER
-[ICASSP 2022] AISHELL-NER: Named Entity Recognition from Chinese Speech
+[ICASSP 2022] AISHELL-NER: Named Entity Recognition from Chinese Speech 
+
+[PDF](https://arxiv.org/pdf/2202.08533.pdf)
 
 ## Run Entity-Aware ASR with ESPnet
 
